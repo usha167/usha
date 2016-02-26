@@ -3,4 +3,4 @@ sharanya
 shwetha
 bangalore
 Mysore
-sonata
+hard reset
